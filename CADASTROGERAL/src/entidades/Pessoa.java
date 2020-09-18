@@ -8,23 +8,20 @@ public class Pessoa {
 	
 	
 	public Pessoa(String nome) {
-		super();
+	
 		this.nome = nome;
 	}
 
 
 	public Pessoa(String nome, String telefone) {
-		super();
+	
 		this.nome = nome;
 		this.telefone = telefone;
 	}
 
 
-
-
-
 	public Pessoa(String nome, String telefone, String endereco) {
-		super();
+		
 		this.nome = nome;
 		this.telefone = telefone;
 		this.endereco = endereco;

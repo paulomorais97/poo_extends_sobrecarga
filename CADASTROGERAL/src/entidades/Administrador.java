@@ -4,8 +4,6 @@ public class Administrador extends Pessoa{
 	
 	private double ajudaDeCusto;
 
-	
-
 	public Administrador(String nome, String telefone, String endereco, double ajudaDeCusto) {
 		super(nome, telefone, endereco);
 		this.ajudaDeCusto = ajudaDeCusto;
